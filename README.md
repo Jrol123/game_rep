@@ -1,5 +1,5 @@
 # game_rep
-To be filled
+
+Игра на Unreal Engine. Недоделана.
 
 Дата выхода: 16.02.2024
-
